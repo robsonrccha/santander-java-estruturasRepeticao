@@ -8,11 +8,10 @@ public class LacoDo {
 
 		Scanner sc = new Scanner(System.in);
 
-		// Exemplo de contar carneirinhos
+		// Exemplo de contar Carneirinhos
 		for (int carneirinhos = 1; carneirinhos <= 20; carneirinhos++) {
 			System.out.println(carneirinhos + " - Carneirinho(s)");
 		}
-		
 		
 		
 		/* 
