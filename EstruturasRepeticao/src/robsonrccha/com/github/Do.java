@@ -2,7 +2,7 @@ package robsonrccha.com.github;
 
 import java.util.Scanner;
 
-public class LacoDo {
+public class Do {
 
 	public static void main(String[] args) {
 
